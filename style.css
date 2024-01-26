@@ -1,0 +1,72 @@
+body {
+  /* background-image: linear-gradient(blue, red, yellow, green); */
+}
+* {
+  text-align: center;
+}
+.flag {
+  border: 1px solid black;
+  width: 600px;
+  height: 300px;
+  background-image: linear-gradient(orange 33%, white 33%, white 63%, green 63%, green 66%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+
+}
+.heading-top {
+  text-align: center;
+}
+.img {
+  width: 115px;
+  height: 115px;
+}
+.heading-top {
+  text-align: center;
+}
+.flag2 {
+  border: 1px solid black;
+  width: 600px;
+  height: 300px;
+  background-image: linear-gradient(white 33%, blue 33%, blue 63%, red 63%, red 66%);
+  margin: 0 auto;
+}
+.flag3 {
+  border: 1px solid black;
+  width: 600px;
+  height: 300px;
+  background-image: linear-gradient( to left, green 33%, white 33%, white 63%, red 63%, red 66%);
+  margin: 0 auto;
+}
+.flag4 {
+  border: 1px solid black;
+  width: 600px;
+  height: 300px;
+  background-image: linear-gradient(to left, red 20%, white 20%, white 80%, red 80%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.img2 {
+  width: 200px;
+  height: 200px;
+}
+.flag5 {
+  border: 1px solid black;
+  width: 600px;
+  height: 300px;
+  background-image: linear-gradient(rgb(118, 118, 215) 50%, yellow 50%, yellow 100%);
+  margin: 0 auto;
+}
+.flag6 {
+  border: 1px solid black;
+  width: 600px;
+  height: 300px;
+  background-image: linear-gradient(black 33%, red 33%, red 63%, yellow 63%, yellow 100%);
+  margin: 0 auto;
+}
+
+
+
